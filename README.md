@@ -2,7 +2,15 @@
 
 ###
 
-<p align="left">- Cursando Ciência da Computação<br>- Projetos Acadêmicos:<br>&nbsp;&nbsp;&nbsp;• Participação na concepção de um Framework Web para Análise e Visualização de Dados, com foco em Redução de Dimensionalidade<br>- Desenvolvimento Mobile com React Native<br>- Iniciativas:<br>&nbsp;&nbsp;&nbsp;• Membro do PETCC (Programa de Educação Tutorial do Curso de Ciência da Computação)<br>&nbsp;&nbsp;&nbsp;• Integrante da Empresa Júnior D3TEC</p>
+<p align="left">
+  - Cursando Ciência da Computação<br>
+  - <strong>Projetos Acadêmicos:</strong><br>
+  &nbsp;&nbsp;&nbsp;• Participação na concepção de um Framework Web para Análise e Visualização de Dados, com foco em Redução de Dimensionalidade<br>
+  - Desenvolvimento Mobile<br>
+  - <strong>Iniciativas:</strong><br>
+  &nbsp;&nbsp;&nbsp;• Membro do PETCC (Programa de Educação Tutorial do Curso de Ciência da Computação)<br>
+  &nbsp;&nbsp;&nbsp;• Integrante da Empresa Júnior D3TEC
+</p>
 
 ###
 
@@ -20,7 +28,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">⭐Stats</h2>
 
 ###
 
@@ -31,7 +39,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">🌐Social Media</h2>
 
 ###
 
